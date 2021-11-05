@@ -1,9 +1,9 @@
 # Assignment
 
-![alt text](images/input_debouncing.gif)
+![alt text](images/input_debouncing.gif)<br/>
 The search bar has a debouncing function for the input text, to avoid rapid calling
 
-![alt text](images/tabs.gif)
+![alt text](images/tabs.gif)<br/>
 The tab display all the Cards with the same category
 
 ![alt text](images/models.png)<br />
