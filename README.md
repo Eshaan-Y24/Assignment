@@ -6,5 +6,5 @@ The search bar has a debouncing function for the input text, to avoid rapid call
 ![alt text](images/tabs.gif)
 The tab display all the Cards with the same category
 
-![alt text](images/models.png)/n
+![alt text](images/models.png)<br />
 The django model looks like this. A foriegn key is used to link categories and products
